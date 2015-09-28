@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
+/*Header*/
 .ba-header {
 	background: #7f7e93;
     color: #fff;
@@ -128,6 +128,9 @@ h1, h2, h3, h4, h5, h6 {
 	background-color: #f06862;
 	z-index: 10;
 }
+/*End Header*/
+
+/*Teaser*/
 .ba-teaser {
 	width: 100%;
 	height: 100%;
@@ -158,6 +161,9 @@ h1, h2, h3, h4, h5, h6 {
 	vertical-align: middle;
 	line-height: 3em;
 }
+/*End Teaser*/
+
+/*Nulla*/
 .ba-nulla {
 	background-color: #f06862;
 	padding: 3em 10%;
@@ -195,6 +201,9 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 0;
 	background-color: #Fff;
 }
+/*End Nulla*/
+
+/*Magna*/
 .ba-container_magna {
 	background-color: #F5F5F5;
 	padding-top: 3em;
@@ -246,6 +255,7 @@ h1, h2, h3, h4, h5, h6 {
 .ba-colums-title_grey2 {
 	padding:2em 0 0;
 }
+/*End Magna*/
 
 /* Porta*/
 .ba-porta {
