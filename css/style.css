@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic);
 a,
 input[type="submit"],
 input[type="button"],
@@ -10,7 +11,7 @@ button{
 body {
 	background: #FFF;
 	color: #848789;
-	font:'Montserrat', Arial, sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 12pt;
 	vertical-align: baseline;
 	min-width: 400px;
@@ -27,6 +28,9 @@ a:hover {
 }
 a:visited {
 	color: #fff;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Montserrat', sans-serif;	
 }
 
 
