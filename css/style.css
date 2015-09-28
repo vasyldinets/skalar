@@ -246,6 +246,8 @@ h1, h2, h3, h4, h5, h6 {
 .ba-colums-title_grey2 {
 	padding:2em 0 0;
 }
+
+/* Porta*/
 .ba-porta {
 	background: #fff;
 	padding: 0 0 2em;
@@ -275,7 +277,6 @@ h1, h2, h3, h4, h5, h6 {
 	position: relative;
 	z-index: 1;
 }
-
 .ba-icon .fa:after {
 	-moz-transform: rotate(45deg);
 	-webkit-transform: rotate(45deg);
@@ -303,11 +304,10 @@ h1, h2, h3, h4, h5, h6 {
 	text-align: center;
 	padding: 1em 0;
 }
+/* End Porta*/
 
 
-
-
-
+/* People*/
 .ba-people {
 	text-align: center;
 }
@@ -322,8 +322,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 .ba-avatar-job {
 	color: rgb(223, 222, 228);
-
 }
+/* End People*/
+
+/* Features */
 .ba-features {
 	padding: 1em 0 3em;
 }
@@ -347,6 +349,10 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 0;
 	margin: 0;
 }
+/* End features*/
+
+
+/*Footer*/
 .ba-footer{
 	text-align: center;
 }
@@ -398,6 +404,8 @@ h1, h2, h3, h4, h5, h6 {
 	padding-left: 2em;
 	font-weight: 400;
 }
+/* End Footer*/
+
 
 /*Arrow*/
 .arrow_box {
