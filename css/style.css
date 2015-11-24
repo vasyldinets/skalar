@@ -426,7 +426,7 @@ h1, h2, h3, h4, h5, h6 {
 /*Arrow*/
 .arrow_box {
 	position: absolute;
-    	top: -10px;
+    	top: -11px;
     	left: 50%;
 	background: #7f7e93;
 }
