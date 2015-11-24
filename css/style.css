@@ -99,10 +99,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 .ba-menu_list li,
 .ba-submenu_list li {
-	position:relative;
+	
 	padding: 2% 3%;
 	border-bottom: 1px solid #dfdee4;
 	background-color: #7f7e93;
+}
+.ba-menu_list li:first-child{
+	position:relative;	
 }
 .ba-menu_list li:last-child,
 .ba-submenu_list li:last-child {
