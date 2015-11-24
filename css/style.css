@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
 .ba-menu:hover .ba-menu_list {
 	display: block;
 	position: absolute;
-	top:120%;
+	top:100%;
 	left: -15%;
 	width: 130%;
 	z-index: 10;
