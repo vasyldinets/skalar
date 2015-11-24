@@ -95,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .ba-menu_list{
 	padding-top:20px;
-	background-color: none;
+	background: none;
 }
 .ba-menu_list li,
 .ba-submenu_list li {
