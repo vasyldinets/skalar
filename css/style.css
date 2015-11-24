@@ -99,6 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .ba-menu_list li,
 .ba-submenu_list li {
+	position:relative;
 	padding: 2% 3%;
 	border-bottom: 1px solid #dfdee4;
 	background-color: #7f7e93;
@@ -424,7 +425,9 @@ h1, h2, h3, h4, h5, h6 {
 
 /*Arrow*/
 .arrow_box {
-	position: relative;
+	position: absolute;
+    	top: -10px;
+    	left: 50%;
 	background: #7f7e93;
 }
 .arrow_box:after {
