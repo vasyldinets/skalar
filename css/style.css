@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
 	padding:5% 0;
 }
 .ba-menu_list{
-	padding-top:20px;
+	padding-top:14px;
 	background: none;
 }
 .ba-menu_list li,
@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
 .ba-submenu:hover .ba-submenu_list {
 	display: block;
 	position: absolute;
-	top:75%;
+	top:76%;
 	right: 100%;
 	width: 100%;
 	z-index: 10;
